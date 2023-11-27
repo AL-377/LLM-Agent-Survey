@@ -37,15 +37,19 @@ Paper link:  [A Survey on Large Language Model based Autonomous Agents](https://
 ## Table of Content
 
 <!-- - [Growth Trend in the Field of LLM-based Autonomous Agent](#-growth-trend-of-llm-based-autonomous-agent)-->
-- [🤖 Construction of LLM-based Autonomous Agent](#-construction-of-llm-based-autonomous-agent)
-- [📍 Applications of LLM-based Autonomous Agent](#-applications-of-llm-based-autonomous-agent)
-- [📊 Evaluation on LLM-based Autonomous Agent](#-evaluation-on-llm-based-autonomous-agent)
-- [🌐 More Comprehensive Summarization](#-more-comprehensive-summarization)
-- [👨‍👨‍👧‍👦 Maintainers](#-maintainers)
-- [📚 Citation](#-citation)
-- [💪 How to Contribute](#-how-to-contribute)
-- [🫡 Acknowledgement](#-acknowledgement)
-- [📧 Contact Us](#-contact-us)
+- [A Survey on LLM-based Autonomous Agents](#a-survey-on-llm-based-autonomous-agents)
+  - [Update Records](#update-records)
+  - [Table of Content](#table-of-content)
+  - [🤖 Construction of LLM-based Autonomous Agent](#-construction-of-llm-based-autonomous-agent)
+  - [🧐 Surveys in LLM-based Autonomous Agent](#-surveys-in-llm-based-autonomous-agent)
+  - [📍 Applications of LLM-based Autonomous Agent](#-applications-of-llm-based-autonomous-agent)
+  - [📊 Evaluation on LLM-based Autonomous Agent](#-evaluation-on-llm-based-autonomous-agent)
+  - [🌐 More Comprehensive Summarization](#-more-comprehensive-summarization)
+  - [👨‍👨‍👧‍👦 Maintainers](#-maintainers)
+  - [📚 Citation](#-citation)
+  - [💪 How to Contribute](#-how-to-contribute)
+  - [🫡 Acknowledgement](#-acknowledgement)
+  - [📧 Contact Us](#-contact-us)
 
 
 <!-- ## 📚 Growth Trend in the Field of LLM-based Autonomous Agent
@@ -442,6 +446,9 @@ Paper link:  [A Survey on Large Language Model based Autonomous Agents](https://
 
 * More papers can be found at [More comprehensive Summarization](#-more-comprehensive-summarization).
 * CA means the strategy of model capability acquisition.
+## 🧐 Surveys in LLM-based Autonomous Agent
+- [20231120][Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents](https://github.com/Zoeyyao27/CoT-Igniting-Agent)
+- [20230907]A Survey on Large Language Model based Autonomous Agents(this)
 
 ## 📍 Applications of LLM-based Autonomous Agent
 
